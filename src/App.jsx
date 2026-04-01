@@ -1,10 +1,10 @@
 import Navbar from "./components/Navbar";
 
 // TODO:
-// 1. Import BrowserRouter, Routes, Route
-// 2. Add routes:
-//    "/" → Home
-//    "/tasks" → Tasks
+// Import:
+// BrowserRouter, Routes, Route from react-router-dom
+// Home from ./pages/Home
+// Tasks from ./pages/Tasks
 
 function App() {
   return (
